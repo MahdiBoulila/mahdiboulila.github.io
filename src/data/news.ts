@@ -13,7 +13,7 @@ export const newsData: News[] = [
     link: "https://icml.cc/",
   },
   {
-    data: "September 2024",
+    date: "September 2024",
     title: "How to get a Ph.D. in the US for free!",
     description: "Presented a virtual talk on navigating US PhD admissions covering application fee waivers, funding opportunities, and strategic planning.",
     link: "https://www.linkedin.com/company/openmindsproject-org/posts/",

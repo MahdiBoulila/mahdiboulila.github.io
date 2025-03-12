@@ -18,22 +18,22 @@ export interface AboutMe {
 }
 
 export const aboutMe: AboutMe = {
-  name: "Jane R. Smith",
+  name: "Mahdi Boulila",
   title: "Ph.D. Candidate",
-  institution: "Stanford University",
+  institution: "Brown University",
   // Note that links work in the description
   description:
-    "I'm a final-year <a href='https://www.stanford.edu'>PhD candidate</a> working at the intersection of causal inference and machine learning. My research focuses on developing robust, interpretable systems that can reason about cause and effect in complex environments.",
-  email: "______@stanford.edu",
+    "I'm a second-year Computer Engineering <a href='https://www.brown.edu'>PhD candidate</a> working at the intersection of hardware acceleration and efficient machine learning. My research focuses on efficient deep learning, exploring neural network compression techniques such as quantization and sparsification to optimize models for deployment on edge devices. I have worked on multi-task learning, large language model optimization, and knowledge transfer. I aim to develop scalable, energy-efficient AI systems.",
+  email: "mahdi_boulila[at]brown.edu",
   imageUrl:
-    "https://images.unsplash.com/photo-1581481615985-ba4775734a9b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://media.licdn.com/dms/image/v2/D4D03AQGtJj3AyT7jkg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721669648722?e=1747267200&v=beta&t=PO121MbkEyxRfFmsLIfe12cjNt6Dvnq9R88Q59qR8ss",
   googleScholarUrl: "https://scholar.google.com/citations?user=bWtMl_MAAAAJ",
-  githubUsername: "janesmith",
-  linkedinUsername: "janesmith",
-  twitterUsername: "janesmith",
+  githubUsername: "MahdiBoulila",
+  linkedinUsername: "mahdiboulila",
+  twitterUsername: "boulila_mahdi",
   blogUrl: "https://",
   cvUrl: "https://",
-  institutionUrl: "https://www.stanford.edu",
+  institutionUrl: "https://www.brown.edu",
   // altName: "",
   // secretDescription: "I like dogs.",
 };

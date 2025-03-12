@@ -20,6 +20,6 @@ export const experienceData: Experience[] = [
   {
     date: "May - September 2023",
     title: "Google Summer of Code",
-    company: "Google";
+    company: "Google",
   },
 ];

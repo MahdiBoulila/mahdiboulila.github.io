@@ -10,21 +10,16 @@ export interface Experience {
 
 export const experienceData: Experience[] = [
   {
-    date: "Summer 2023",
-    title: "Research Intern",
-    company: "DeepMind",
+    date: "May - September 2024",
+    title: "Large Language Model Research Intern",
+    company: "National Renewal Energy Laboratory",
     description:
-      "Developed novel algorithms for causal structure learning in reinforcement learning settings",
-    advisor: "Peter Wang",
-    companyUrl: "https://deepmind.com",
+      "researched techniques in agent-chaining, chain-of-thought pipelines, and retrieval-augmented generation (RAG) using knowledge graphs to enhance knowledge transfer and interpretability in large language model agents.",
+     companyUrl: "https://www.nrel.gov/";
   },
   {
-    date: "Summer 2022",
+    date: "May - September 2023",
     title: "Research Intern",
-    company: "Google Research",
-    description:
-      "Worked on improving robustness of large language models to distribution shifts",
-    manager: "Elise Brown",
-    companyUrl: "https://google.com",
+    company: "Google Summer of Code",
   },
 ];

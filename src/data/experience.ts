@@ -15,7 +15,7 @@ export const experienceData: Experience[] = [
     company: "National Renewal Energy Laboratory",
     description:
       "researched techniques in agent-chaining, chain-of-thought pipelines, and retrieval-augmented generation (RAG) using knowledge graphs to enhance knowledge transfer and interpretability in large language model agents.",
-     companyUrl: "https://www.nrel.gov/";
+     companyUrl: "https://www.nrel.gov/",
   },
   {
     date: "May - September 2023",

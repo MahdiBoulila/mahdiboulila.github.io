@@ -7,9 +7,9 @@ export interface News {
 
 export const newsData: News[] = [
   {
-    date: "March 2025",
-    title: "Paper under-review at ICML 2025",
-    description: "Our work on quantization and pruning is under-review at ICML.",
+    date: "November 2025",
+    title: "Paper under-review at DATE 2026",
+    description: "My work on quantization and pruning is under-review at ICML.",
     link: "https://icml.cc/",
   },
   {

@@ -10,6 +10,14 @@ export interface Experience {
 
 export const experienceData: Experience[] = [
   {
+    date: "May - September 2025",
+    title: "Applied Researcher - Embedded Machine Learning",
+    company: "CompScience",
+    description:
+      "Engineered a production-ready MVP for an embedded AI system capable of deploying a vision-language model on-device. Researched and implemented LLM-focused quantization and CLIP-based pruning to enable 4GB on-device vision-language deployment, achieving 40 tokens/second throughput",
+     companyUrl: "https://www.compscience.com/",
+  },
+  {
     date: "May - September 2024",
     title: "Large Language Model Research Intern",
     company: "National Renewal Energy Laboratory",
